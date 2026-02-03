@@ -1,4 +1,4 @@
-package com.example.language_app_with_internet.ui.theme
+package com.example.language_app_with_internet.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
