@@ -1,3 +1,96 @@
 <resources>
-    <string name="app_name">language-app-with-internet</string>
+    <string name="app_name">Language App</string>
+    <string name="onboarding_title_1">Confidence in your words</string>
+    <string name="onboarding_desc_1">With conversation-based learning,\nyou\'ll be talking from lesson one</string>
+    <string name="onboarding_title_2">Take your time to learn</string>
+    <string name="onboarding_desc_2">Develop a habit of learning and\nmake it a part of your daily routine</string>
+    <string name="onboarding_title_3">The lessons you need to learn</string>
+    <string name="onboarding_desc_3">Using a variety of learning styles to learn\nand retain</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_more">More</string>
+    <string name="btn_choose_language">Choose a language</string>
+    <string name="btn_skip_onboarding">Skip onboarding</string>
+    <string name="language_select_header">Language select</string>
+    <string name="btn_choose">Choose</string>
+    <string name="mother_language_question">What is your Mother language?</string>
+
+    <string name="lang_russian">Russian</string>
+    <string name="lang_english">English</string>
+    <string name="lang_chinese">Chinese</string>
+    <string name="lang_belarusian">Belarusian</string>
+    <string name="lang_kazakh">Kazakh</string>
+
+    <string name="signup">Signup</string>
+    <string name="create_account">Create an Account</string>
+    <string name="first_name">First Name</string>
+    <string name="your_first_name">Your First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="your_last_name">Your Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="email">Email</string>
+    <string name="continue_btn">Continue</string>
+    <string name="already_member">Already you member?</string>
+    <string name="login">Login</string>
+    <string name="choose_password">Choose a Password</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="i_have_made">I have made myself acquainted with</string>
+    <string name="the_rules">the Rules</string>
+    <string name="accept_provisions"> and accept all its provisions,</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+
+    <string name="error_first_name_empty">First name is empty</string>
+    <string name="error_last_name_empty">Last name is empty</string>
+    <string name="error_email_empty">Email is empty</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_empty">Password is empty</string>
+    <string name="error_password_requirements">Password must contain at least 8 characters, one uppercase letter, one lowercase letter, one digit, one special character</string>
+    <string name="error_passwords_do_not_match">Passwords do not match</string>
+    <string name="error_accept_agreement">You must accept the user agreement</string>
+
+    <string name="login_subtitle">For free, join now and\nstart learning</string>
+    <string name="password_placeholder">●●●●●●●</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="not_a_member">Not you member?</string>
+
+    <string name="switch_to_light">Switch to Light</string>
+    <string name="switch_to_dark">Switch to Dark</string>
+    <string name="change_mother_language">Change mother language</string>
+    <string name="change_your_image">Change your image</string>
+    <string name="logout">Logout</string>
+
+    <string name="your_profile">Your profile, %1$s</string>
+    <string name="hello_user">Hello, %1$s</string>
+    <string name="ready_for_learning">Are you ready for learning today?</string>
+
+    <!-- Main Screen -->
+    <string name="top_users">Top users</string>
+    <string name="available_exercises">Available excersises</string>
+    <string name="exercise_guess_animal">Guess the animal</string>
+    <string name="exercise_word_practice">Word practice</string>
+    <string name="exercise_audition">Audition</string>
+    <string name="exercise_game">Game</string>
+
+    <!-- Audition Exercise -->
+    <string name="listening_title">Listening</string>
+    <string name="audition_instructions">Please press button and say this\nword. Our service will check\nyour pronunciation</string>
+    <string name="check_my_speech">Check my speech</string>
+    <string name="your_result">Your result</string>
+    <string name="yay_go_next">Yay! Go next</string>
+
+    <!-- Guess Animal Exercise -->
+    <string name="guess_animal_title">Guess the animal</string>
+    <string name="write_who_is_on_image">Write who is on image</string>
+    <string name="btn_check">Check</string>
+    <string name="btn_try_again">Try again</string>
+
+    <!-- Word Practice Exercise -->
+    <string name="word_practice_title">Word practice</string>
+    <string name="btn_next_exercise">Next</string>
+
+    <!-- Correct/Wrong Answer Screens -->
+    <string name="holy_molly">Holy Molly! That is Right!</string>
+    <string name="wrong_answer">Eh? Wrong answer :(</string>
+    <string name="that_is">That is: %1$s</string>
 </resources>

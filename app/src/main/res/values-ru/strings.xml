@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Изучение языков</string>
+
+    <string name="onboarding_title_1">Уверенность в своих словах</string>
+
+    <string name="onboarding_desc_1">С обучением на основе общения\nвы заговорите с первого урока</string>
+
+    <string name="onboarding_title_2">Не торопитесь учиться</string>
+
+    <string name="onboarding_desc_2">Сформируйте привычку учиться и\nсделайте это частью своей повседневной рутины</string>
+
+    <string name="onboarding_title_3">Уроки, которые вам нужно выучить</string>
+
+    <string name="onboarding_desc_3">Использование различных стилей обучения для изучения\nи закрепления</string>
+
+    <string name="btn_next">Далее</string>
+
+    <string name="btn_more">Больше</string>
+
+    <string name="btn_choose_language">Выбрать язык</string>
+
+    <string name="btn_skip_onboarding">Пропустить обучение</string>
+
+    <string name="language_select_header">Выбор языка</string>
+
+    <string name="btn_choose">Выбрать</string>
+
+    <string name="mother_language_question">Какой ваш родной язык?</string>
+
+
+
+    <string name="lang_russian">Русский</string>
+
+    <string name="lang_english">Английский</string>
+
+    <string name="lang_chinese">Китайский</string>
+
+    <string name="lang_belarusian">Белорусский</string>
+
+    <string name="lang_kazakh">Казахский</string>
+
+
+    <string name="signup">Регистрация</string>
+
+    <string name="create_account">Создать аккаунт</string>
+
+    <string name="first_name">Имя</string>
+
+    <string name="your_first_name">Ваше имя</string>
+
+    <string name="last_name">Фамилия</string>
+
+    <string name="your_last_name">Ваша фамилия</string>
+
+    <string name="email_address">Электронная почта</string>
+
+    <string name="email">Email</string>
+
+    <string name="continue_btn">Продолжить</string>
+
+    <string name="already_member">Уже есть аккаунт?</string>
+
+    <string name="login">Войти</string>
+
+    <string name="choose_password">Выберите пароль</string>
+
+    <string name="password">Пароль</string>
+
+    <string name="confirm_password">Подтвердите пароль</string>
+
+    <string name="i_have_made">Я ознакомился с</string>
+
+    <string name="the_rules">правилами</string>
+
+    <string name="accept_provisions"> и принимаю все их положения,</string>
+
+    <string name="error">Ошибка</string>
+
+    <string name="ok">ОК</string>
+
+
+    <string name="error_first_name_empty">Имя не может быть пустым</string>
+
+    <string name="error_last_name_empty">Фамилия не может быть пустой</string>
+
+    <string name="error_email_empty">Email не может быть пустым</string>
+
+    <string name="error_invalid_email">Некорректный адрес электронной почты</string>
+
+    <string name="error_password_empty">Пароль не может быть пустым</string>
+
+    <string name="error_password_requirements">Пароль должен содержать не менее 8 символов, одну заглавную букву, одну строчную букву, одну цифру и один спецсимвол</string>
+
+    <string name="error_passwords_do_not_match">Пароли не совпадают</string>
+
+    <string name="error_accept_agreement">Вы должны принять пользовательское соглашение</string>
+
+
+    <string name="login_subtitle">Бесплатно присоединяйтесь и\nначните учиться</string>
+
+    <string name="password_placeholder">●●●●●●●</string>
+
+    <string name="forgot_password">Забыли пароль</string>
+
+    <string name="not_a_member">Нет аккаунта?</string>
+
+
+    <string name="switch_to_light">Переключить на Светлую</string>
+
+    <string name="switch_to_dark">Переключить на Темную</string>
+
+    <string name="change_mother_language">Изменить родной язык</string>
+
+    <string name="change_your_image">Изменить изображение профиля</string>
+
+    <string name="logout">Выйти</string>
+
+
+    <string name="your_profile">Ваш профиль, %1$s</string>
+
+    <string name="hello_user">Привет, %1$s</string>
+
+    <string name="ready_for_learning">Вы готовы к обучению сегодня?</string>
+
+
+    <!-- Main Screen -->
+
+    <string name="top_users">Топ пользователей</string>
+
+    <string name="available_exercises">Доступные упражнения</string>
+
+    <string name="exercise_guess_animal">Угадай животное</string>
+
+    <string name="exercise_word_practice">Практика слов</string>
+
+    <string name="exercise_audition">Аудирование</string>
+
+    <string name="exercise_game">Игра</string>
+
+
+    <!-- Audition Exercise -->
+
+    <string name="listening_title">Аудирование</string>
+
+    <string name="audition_instructions">Нажмите кнопку и произнесите слово.\nНаш сервис проверит\nваше произношение</string>
+
+    <string name="check_my_speech">Проверить речь</string>
+
+    <string name="your_result">Ваш результат</string>
+
+    <string name="yay_go_next">Ура! Дальше</string>
+
+
+    <!-- Guess Animal Exercise -->
+
+    <string name="guess_animal_title">Угадай животное</string>
+
+    <string name="write_who_is_on_image">Напишите, кто на картинке</string>
+
+    <string name="btn_check">Проверить</string>
+
+    <string name="btn_try_again">Попробовать снова</string>
+
+
+    <!-- Word Practice Exercise -->
+
+    <string name="word_practice_title">Практика слов</string>
+
+    <string name="btn_next_exercise">Далее</string>
+
+
+    <!-- Correct/Wrong Answer Screens -->
+
+    <string name="holy_molly">Святые угодники! Это верно!</string>
+
+    <string name="wrong_answer">А? Неправильный ответ :(</string>
+
+    <string name="that_is">Это: %1$s</string>
+
+</resources>
